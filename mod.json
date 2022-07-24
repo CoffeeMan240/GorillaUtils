@@ -5,7 +5,7 @@
   "author": "RedBrumbler",
   "version": "0.1.9",
   "packageId": "com.AnotherAxiom.GorillaTag",
-  "packageVersion": "1.0.11",
+  "packageVersion": "1.1.26",
   "description": "Library that provides utils to modders",
   "coverImage": "cover.png",
   "isLibrary": true,
@@ -13,7 +13,7 @@
     {
       "id": "monkecodegen",
       "version": ">=0.8.0",
-      "downloadIfMissing": "https://github.com/RedBrumbler/MonkeCodegen/releases/download/v0.8.0/MonkeCodegen.qmod"
+      "downloadIfMissing": "https://raw.githubusercontent.com/CoffeeMan240/QMODS/main/monkecodegen.qmod"
     }
   ],
   "modFiles": [],
